@@ -12,7 +12,7 @@
   },
   "author": "ZEEONE",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3", 
+    "@adiwajshing/baileys": "^4.0.1", 
     "awesome-phonenumber": "^2.64.0",
     "async": "^3.2.0",
     "axios": "^0.21.1",
